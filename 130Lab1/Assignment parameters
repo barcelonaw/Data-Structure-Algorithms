@@ -1,0 +1,3 @@
+Purpose of this lab is to use a doubly linked list. Using the second linked list as a pool to hold passive nodes.
+
+WARNING: The stack, queue, and linked list portion works, however the pool does not.
